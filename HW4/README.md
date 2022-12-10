@@ -28,7 +28,7 @@ Some keys solutions:
 2. C++ 14
 
 ## How to run
-1. `$ git clone https://github.com/aalexren/pss-2021`
+1. `$ git clone https://github.com/aalexren/iu-pss`
 2. `$ cd HW4/`
 3. `$ cmake`
 4. `$ make`
